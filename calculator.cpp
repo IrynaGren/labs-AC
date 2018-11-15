@@ -10,5 +10,11 @@ int Calculator::Add (double a, double b)
 
 int Calculator::Sub (double a, double b)
 {
+// Comment 1
+// Comment 2
+// Comment 3
+// Comment 4
+// Comment 5
+// Comment 6
     return Add (a, -b);
 }
